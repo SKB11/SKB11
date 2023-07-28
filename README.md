@@ -36,46 +36,46 @@ I love doing Canvas Paintings ! ✨
     <table align="center">
       <tr>
         <!-- Programming Languages -->
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="48" alt="Rxjava"/>
           <br>Python&nbsp;
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="60"/>
           <br>&nbsp;&nbsp;C&nbsp;&nbsp;
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43"/>
           <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" height="60" width="50"/>
           <br>&nbsp;&nbsp;HTML&nbsp;&nbsp;
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="70"/>
           <br>&nbsp;&nbsp;CSS&nbsp;&nbsp;
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="60"/>
           <br>JavaScript
         </td>
         <!-- Tools -->
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" width="55"/>
           <br>Android&nbsp;Studio
         </td>
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="60"/>
           <br>Visual Studio Code
         </td>
         <!-- Version Control -->
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
           <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <!-- Databases -->
-        <td align="center" width="96">
+        <td align="center" width="85">
           <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
           <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
@@ -83,5 +83,7 @@ I love doing Canvas Paintings ! ✨
     </table>
   </body>
 </html>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKB11&show_icons=true&locale=en&layout=compact" alt="snehasanjana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKB11&" alt="Shraddha KB" /></p>
 
 ![Views](https://komarev.com/ghpvc/?username=SKB11&color=blue&style=flat-square&label=Profile+Views)
