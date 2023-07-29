@@ -86,5 +86,9 @@ Here are some ideas to get you started:
     </table>
   </body>
 </html>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKB11&show_icons=true&locale=en&layout=compact" alt="snehasanjana" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKB11&" alt="Shraddha KB" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SKB11&show_icons=true&locale=en&layout=compact&theme=dark" alt="Shraddha KB's Top Languages" />
+<!-- </p>
+<p align="center"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKB11&theme=dark" alt="Shraddha KB's GitHub Streak Stats" />
+</p>
