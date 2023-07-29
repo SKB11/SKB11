@@ -12,20 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center"> Hi there👋, I'm Shraddha KB</h1>
-
 
 #### 🎓 BTech student at REVA University, Bangalore
 
 ![Background Image](https://media.licdn.com/dms/image/C5616AQHB9eahiUT1hQ/profile-displaybackgroundimage-shrink_350_1400/0/1652429354227?e=1695254400&v=beta&t=r0gB31oU99DWv6Fut4Y2tQc3e_19xhEFaY0-GBwCphM)
 
+![Views](https://komarev.com/ghpvc/?username=SKB11&color=blue&style=flat-square&label=Profile+Views)
 
-I have a genuine passion for tackling projects centered around Machine Learning and Natural Language Processing to solve real-world problems. 🚀
+- 👨‍💻I have a genuine passion for tackling projects centered around Machine Learning and Natural Language Processing to solve real-world problems. 🚀
 
-I love doing Canvas Paintings ! ✨
+- ⚡I love doing Canvas Paintings ! ✨
 
-### :email: Let's connect:<a href="https://www.linkedin.com/in/shraddha-kb-261819205/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="20" width="30" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shraddha-kb-261819205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shraddha KB" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@skb_369/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+</p>
 
 ### 🏆 My GitHub stats
 
@@ -85,5 +88,3 @@ I love doing Canvas Paintings ! ✨
 </html>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SKB11&show_icons=true&locale=en&layout=compact" alt="snehasanjana" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SKB11&" alt="Shraddha KB" /></p>
-
-![Views](https://komarev.com/ghpvc/?username=SKB11&color=blue&style=flat-square&label=Profile+Views)
