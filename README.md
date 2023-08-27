@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![Background Image](https://media.licdn.com/dms/image/C5616AQHB9eahiUT1hQ/profile-displaybackgroundimage-shrink_350_1400/0/1652429354227?e=1695254400&v=beta&t=r0gB31oU99DWv6Fut4Y2tQc3e_19xhEFaY0-GBwCphM)
 
 ![Views](https://komarev.com/ghpvc/?username=SKB11&color=blue&style=flat-square&label=Profile+Views)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skb11&theme=matrix&column=-1" alt="skb11" /></a> </p>
 
 - 👨‍💻I have a genuine passion for tackling projects centered around Machine Learning and Natural Language Processing to solve real-world problems. 🚀
 
